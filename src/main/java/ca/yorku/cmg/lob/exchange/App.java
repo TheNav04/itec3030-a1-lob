@@ -39,4 +39,4 @@ public class App {
     	System.out.println(exc.printBalances(true));
     	System.out.println(exc.printFeesCollected(true));
     }
-}
+} 
